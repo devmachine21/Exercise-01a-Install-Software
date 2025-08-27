@@ -1,9 +1,9 @@
 # Exercise-01a-Install-Software
-My name is:
+## My name is:
 
 Evan Schulenberg
 
-My github username is:
+## My github username is:
 
 devmachine21
 
