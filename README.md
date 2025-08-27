@@ -7,4 +7,4 @@ My github username is:
 
 devmachine21
 
-BL-MSCH-C220
+## I have installed the software on my computer as a part of the exercise
